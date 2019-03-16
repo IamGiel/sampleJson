@@ -1,0 +1,28 @@
+{
+    "uploadedFileName": "Apextri.csv",
+    "unMatched": 9,
+    "matched": {
+        "total": 1,
+        "possible": 1
+    },
+    "numReceivedRecords": 10,
+    "numProcessedRecords": 10,
+    "numErrorRecords": 0,
+    "headersIdentifiedSuccessfully": [
+        "localid",
+        "standard identifier",
+        "name",
+        "country",
+        "street",
+        "city",
+        "postalcode",
+        "state",
+        "website"
+    ],
+    "headersNotIdentified": [],
+    "headersSupportedWereNotSent": [],
+    "errorCode": 0,
+    "errorCodeMessage": "Success",
+    "resolvingTimeInMs": 14937,
+    "requestTimeInMs": 14937
+}
